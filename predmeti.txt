@@ -1,0 +1,3 @@
+Matematika1;10;Pera Peric
+Objektno orijentisano programiranje;6;Mika Mikic
+Uvod u programiranje;55;Nikola Nikolic
